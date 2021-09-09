@@ -2,6 +2,8 @@
 
 This is the code for paper  **Continual Learning by Using Information of Each Class Holistically**
 
+Some pretrained features can be found here: https://drive.google.com/drive/folders/1S9hHDUiWg5W9co2W9_vZOSUxtnpuDk3i?usp=sharing
+
 *Python Environment*:
 
 python                            3.6.8
